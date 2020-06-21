@@ -1,0 +1,21 @@
+{
+    "config": [
+        {
+            "ip-configuration": true
+        },
+        {
+            "hostname": true
+        },
+        {
+            "firewall": true
+        }
+    ],
+    "windows-features": [
+        "Microsoft-Hyper-V",
+        "TelnetClient"
+    ],
+    "software": [
+        "vscode",
+        "googlechrome"
+    ]
+}
